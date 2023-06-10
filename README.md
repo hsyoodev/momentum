@@ -1,2 +1,3 @@
-# momentum
-Build a Momentum
+# Momonton
+
+Learning Javascript by Making a Productivity App
